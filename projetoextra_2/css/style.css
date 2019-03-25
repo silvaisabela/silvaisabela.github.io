@@ -1,0 +1,93 @@
+body {
+    margin: 0;
+  
+    
+}
+.navegacao {
+    display: flex; 
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+
+
+}
+
+.logo {
+    width: 100px;
+
+}
+
+.menu {
+    list-style: none;
+    padding-left: 0;
+
+}
+
+.menu li {
+    display: inline-block;
+    margin: 10px;
+
+}
+
+.login li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.btn--rosa{
+    background-color: #fc0fc0;
+    padding: 10px;
+    border: 1px solid #fc0fc0;
+    color: aliceblue;
+    font-size: 12px;
+    text-transform: uppercase
+}
+.container{
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+
+}
+
+.artigo {
+    width: 300px;
+    margin: 100px;
+
+
+}
+
+.botao {
+    background-color: #fc0fc0;
+    padding: 10px;
+    border: 1px solid #fc0fc0;
+    color: aliceblue;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+
+.Link {
+    
+}
+.video {
+    
+}
+
+.video__imagem {
+    width: 300px;
+    
+}
+
+.rodape {
+    background-color: #fc0fc0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    
+
+    
+}
+
